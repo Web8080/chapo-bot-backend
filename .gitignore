@@ -2,3 +2,5 @@ config/keys.json
 __pycache__/
 *.pyc
 .env
+venv/
+**/torch/lib/*dylib
