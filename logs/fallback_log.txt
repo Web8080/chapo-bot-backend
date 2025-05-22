@@ -1,0 +1,561 @@
+2025-05-16 10:13:35,126 - INFO - ✅ MongoDB connection established.
+2025-05-16 10:13:48,613 - INFO - 📝 Interaction saved to DB.
+2025-05-16 10:14:46,423 - INFO - ✅ MongoDB connection established.
+2025-05-16 10:15:00,123 - INFO - 📝 Interaction saved to DB.
+2025-05-16 10:52:13,592 - INFO - ✅ MongoDB connection established.
+2025-05-16 10:52:52,456 - INFO - ✅ MongoDB connection established.
+2025-05-16 10:54:50,115 - INFO - ✅ MongoDB connection established.
+2025-05-16 11:10:19,500 - INFO - ✅ MongoDB connection established.
+2025-05-16 11:12:13,969 - INFO - ✅ MongoDB connection established.
+2025-05-16 11:12:40,919 - INFO - 📝 Interaction saved to DB.
+2025-05-16 11:13:03,659 - INFO - 📝 Interaction saved to DB.
+2025-05-16 11:13:13,863 - INFO - 📝 Interaction saved to DB.
+2025-05-16 11:22:02,395 - INFO - ✅ MongoDB connection established.
+2025-05-16 11:28:50,966 - INFO - ✅ MongoDB connection established.
+2025-05-16 11:29:47,635 - INFO - 📝 Interaction saved to DB.
+2025-05-16 11:55:30,036 - INFO - ✅ MongoDB connection established.
+2025-05-16 11:55:45,631 - INFO - 📝 Interaction saved to DB.
+2025-05-16 11:56:15,973 - INFO - 📝 Interaction saved to DB.
+2025-05-16 11:56:40,930 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:18:36,329 - INFO - ✅ MongoDB connection established.
+2025-05-16 12:19:00,141 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:19:34,597 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:20:06,442 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:22:14,867 - INFO - ✅ MongoDB connection established.
+2025-05-16 12:22:27,160 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:22:36,459 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:22:45,290 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:22:55,065 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:23:08,240 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:23:20,299 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:23:46,090 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:31:13,315 - INFO - ✅ MongoDB connection established.
+2025-05-16 12:31:26,270 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:31:37,625 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:32:50,068 - INFO - ✅ MongoDB connection established.
+2025-05-16 12:33:02,135 - INFO - 📝 Interaction saved to DB.
+2025-05-16 12:33:13,826 - INFO - 📝 Interaction saved to DB.
+2025-05-16 13:16:52,614 - INFO - ✅ MongoDB connection established.
+2025-05-16 13:17:16,185 - INFO - 📝 Interaction saved to DB.
+2025-05-16 13:17:16,314 - INFO - 📊 Evaluation metric saved with ID: 68272ccc34753f086a300570
+2025-05-18 10:13:29,115 - INFO - ✅ MongoDB connection established.
+2025-05-18 10:14:17,145 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:15:18,756 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:16:15,400 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:16:15,511 - INFO - 📊 Evaluation metric saved with ID: 6829a55fa52ac0228aa0af8c
+2025-05-18 10:16:46,239 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:16:58,045 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:42:14,298 - INFO - ✅ MongoDB connection established.
+2025-05-18 10:42:30,014 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:53:51,030 - INFO - ✅ MongoDB connection established.
+2025-05-18 10:54:05,230 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:54:36,580 - INFO - ✅ MongoDB connection established.
+2025-05-18 10:54:49,836 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:57:31,167 - INFO - ✅ MongoDB connection established.
+2025-05-18 10:57:45,538 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:57:45,651 - INFO - 📊 Evaluation metric saved with ID: 6829af19fb96f5df81961490
+2025-05-18 10:57:54,920 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:57:55,024 - INFO - 📊 Evaluation metric saved with ID: 6829af22fb96f5df81961492
+2025-05-18 10:58:06,619 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:58:17,121 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:58:25,939 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:58:34,841 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:58:43,540 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:58:52,323 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:59:14,226 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:59:23,526 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:59:36,500 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:59:47,562 - INFO - 📝 Interaction saved to DB.
+2025-05-18 10:59:59,003 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:00:55,185 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:01:29,483 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:01:39,629 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:03:22,709 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:03:32,336 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:04:12,744 - INFO - ✅ MongoDB connection established.
+2025-05-18 11:04:24,596 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:04:51,930 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:05:01,961 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:05:11,999 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:05:58,394 - INFO - ✅ MongoDB connection established.
+2025-05-18 11:07:35,984 - INFO - ✅ MongoDB connection established.
+2025-05-18 11:08:03,831 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:09:38,165 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:15:12,242 - INFO - ✅ MongoDB connection established.
+2025-05-18 11:23:13,733 - INFO - ✅ MongoDB connection established.
+2025-05-18 11:24:53,731 - INFO - ✅ MongoDB connection established.
+2025-05-18 11:27:19,239 - INFO - 📝 Interaction saved to DB.
+2025-05-18 11:27:30,516 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:04:11,013 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:04:52,177 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:05:21,710 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:05:34,241 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:05:57,109 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:17:14,058 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:17:27,712 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:17:57,424 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:19:16,152 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:19:27,649 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:19:51,038 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:22:32,755 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:22:45,080 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:22:54,863 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:25:05,435 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:27:29,542 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:31:56,899 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:34:05,193 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:34:47,713 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:41:11,659 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:41:33,830 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:41:43,058 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:41:53,221 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:42:05,836 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:42:31,278 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:44:31,041 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:45:07,536 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:46:19,249 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:46:46,240 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:50:08,889 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:51:56,616 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:52:26,472 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:52:36,510 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:52:48,643 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:53:03,671 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:53:13,756 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:55:16,076 - INFO - ✅ MongoDB connection established.
+2025-05-18 12:55:29,150 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:55:39,505 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:55:52,075 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:56:39,196 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:56:51,628 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:57:01,128 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:57:38,219 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:57:52,110 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:58:14,785 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:58:26,174 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:58:36,337 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:58:46,274 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:58:56,510 - INFO - 📝 Interaction saved to DB.
+2025-05-18 12:59:20,139 - INFO - 📝 Interaction saved to DB.
+2025-05-18 13:21:07,138 - INFO - ✅ MongoDB connection established.
+2025-05-18 13:21:36,910 - INFO - 📝 Interaction saved to DB.
+2025-05-18 13:21:55,459 - INFO - 📝 Interaction saved to DB.
+2025-05-18 13:22:06,313 - INFO - 📝 Interaction saved to DB.
+2025-05-18 13:22:28,088 - INFO - 📝 Interaction saved to DB.
+2025-05-18 13:22:39,383 - INFO - 📝 Interaction saved to DB.
+2025-05-18 13:23:11,670 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:04:35,740 - INFO - ✅ MongoDB connection established.
+2025-05-18 18:04:51,230 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:05:02,035 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:05:12,296 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:05:12,409 - INFO - 📊 Evaluation metric saved with ID: 682a13480950ba0811538af5
+2025-05-18 18:05:22,820 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:05:32,806 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:05:42,791 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:05:52,693 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:06:02,634 - INFO - 📝 Interaction saved to DB.
+2025-05-18 18:06:56,346 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:33:40,237 - INFO - ✅ MongoDB connection established.
+2025-05-19 07:35:05,640 - INFO - ✅ MongoDB connection established.
+2025-05-19 07:35:51,395 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ad118962a9471c8ddcfc7, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-19 07:37:18,269 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ad118962a9471c8ddcfc7, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-19 07:39:05,558 - INFO - ✅ MongoDB connection established.
+2025-05-19 07:39:22,844 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:39:49,243 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:40:00,116 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:40:52,871 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:41:18,376 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:41:28,575 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:41:38,633 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:42:00,603 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:42:12,765 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:42:41,127 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:42:50,987 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:43:20,241 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:43:48,979 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:44:02,915 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:44:15,592 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:44:15,713 - INFO - 📊 Evaluation metric saved with ID: 682ad33fb762413e195de6d6
+2025-05-19 07:44:26,494 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:44:39,317 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:44:49,261 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:45:00,389 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:45:10,249 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:45:20,083 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:45:29,914 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:45:40,280 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:45:52,499 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:46:04,812 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:46:15,946 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:56:06,403 - INFO - ✅ MongoDB connection established.
+2025-05-19 07:56:22,339 - INFO - 📝 Interaction saved to DB.
+2025-05-19 07:56:53,274 - INFO - 📝 Interaction saved to DB.
+2025-05-19 08:07:10,605 - INFO - ✅ MongoDB connection established.
+2025-05-19 08:07:27,051 - INFO - 📝 Interaction saved to DB.
+2025-05-19 08:08:01,950 - INFO - 📝 Interaction saved to DB.
+2025-05-19 08:11:20,840 - INFO - 📝 Interaction saved to DB.
+2025-05-19 08:11:31,578 - INFO - 📝 Interaction saved to DB.
+2025-05-19 08:13:10,120 - INFO - 📝 Interaction saved to DB.
+2025-05-19 09:53:01,127 - INFO - ✅ MongoDB connection established.
+2025-05-19 09:55:24,441 - INFO - ✅ MongoDB connection established.
+2025-05-19 09:55:38,388 - INFO - 📝 Interaction saved to DB.
+2025-05-19 09:56:09,231 - INFO - 📝 Interaction saved to DB.
+2025-05-19 09:56:20,219 - INFO - 📝 Interaction saved to DB.
+2025-05-19 09:56:30,452 - INFO - 📝 Interaction saved to DB.
+2025-05-19 09:57:27,190 - INFO - ✅ MongoDB connection established.
+2025-05-21 07:46:08,801 - INFO - ✅ MongoDB connection established.
+2025-05-21 07:46:56,383 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d76af6c8b3d7a8ace2f90, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:47:26,423 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d76af6c8b3d7a8ace2f90, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:48:18,792 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d76af6c8b3d7a8ace2f90, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:48:49,149 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d76af6c8b3d7a8ace2f90, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:50:03,276 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d76af6c8b3d7a8ace2f90, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:52:20,227 - INFO - ✅ MongoDB connection established.
+2025-05-21 07:53:15,020 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:53:45,300 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:54:24,982 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:54:55,026 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:55:42,274 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:56:12,425 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:57:02,430 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 07:57:32,813 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d78241095834f8abe2291, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 08:32:08,393 - INFO - ✅ MongoDB connection established.
+2025-05-21 08:32:52,054 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d817834df4a95b8edf7ad, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 08:33:22,096 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682d817834df4a95b8edf7ad, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 08:34:25,964 - INFO - ✅ MongoDB connection established.
+2025-05-21 08:34:48,257 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:34:48,368 - INFO - 📊 Evaluation metric saved with ID: 682d8218a917e56cb63df154
+2025-05-21 08:34:56,726 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:34:57,567 - INFO - 📊 Evaluation metric saved with ID: 682d8220a917e56cb63df156
+2025-05-21 08:35:15,459 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:35:15,466 - INFO - 📊 Evaluation metric saved with ID: 682d8233a917e56cb63df158
+2025-05-21 08:35:23,046 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:35:23,047 - INFO - 📊 Evaluation metric saved with ID: 682d823aa917e56cb63df15a
+2025-05-21 08:35:47,101 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:35:47,103 - INFO - 📊 Evaluation metric saved with ID: 682d8253a917e56cb63df15c
+2025-05-21 08:36:04,264 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:36:04,362 - INFO - 📊 Evaluation metric saved with ID: 682d8264a917e56cb63df15e
+2025-05-21 08:36:17,282 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:36:17,387 - INFO - 📊 Evaluation metric saved with ID: 682d8271a917e56cb63df160
+2025-05-21 08:36:29,945 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:36:30,048 - INFO - 📊 Evaluation metric saved with ID: 682d827da917e56cb63df162
+2025-05-21 08:36:41,602 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:36:42,033 - INFO - 📊 Evaluation metric saved with ID: 682d8289a917e56cb63df164
+2025-05-21 08:36:50,152 - INFO - 📊 Evaluation metric saved with ID: 682d8292a917e56cb63df166
+2025-05-21 08:36:50,159 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:36:58,353 - INFO - 📊 Evaluation metric saved with ID: 682d829aa917e56cb63df168
+2025-05-21 08:36:58,354 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:39:32,935 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:39:33,039 - INFO - 📊 Evaluation metric saved with ID: 682d8334a917e56cb63df16a
+2025-05-21 08:39:54,478 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:39:54,577 - INFO - 📊 Evaluation metric saved with ID: 682d834aa917e56cb63df16c
+2025-05-21 08:40:02,784 - INFO - 📊 Evaluation metric saved with ID: 682d8352a917e56cb63df16e
+2025-05-21 08:40:02,784 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:40:27,979 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:40:28,080 - INFO - 📊 Evaluation metric saved with ID: 682d836ba917e56cb63df170
+2025-05-21 08:40:36,741 - INFO - 📊 Evaluation metric saved with ID: 682d8374a917e56cb63df172
+2025-05-21 08:40:36,742 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:40:52,331 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:40:52,436 - INFO - 📊 Evaluation metric saved with ID: 682d8384a917e56cb63df174
+2025-05-21 08:41:00,881 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:41:00,882 - INFO - 📊 Evaluation metric saved with ID: 682d838ca917e56cb63df176
+2025-05-21 08:41:10,456 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:41:10,587 - INFO - 📊 Evaluation metric saved with ID: 682d8396a917e56cb63df178
+2025-05-21 08:41:19,636 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:41:19,735 - INFO - 📊 Evaluation metric saved with ID: 682d839fa917e56cb63df17a
+2025-05-21 08:49:20,170 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:49:20,271 - INFO - 📊 Evaluation metric saved with ID: 682d8580a917e56cb63df17c
+2025-05-21 08:49:42,144 - INFO - 📝 Interaction saved to DB.
+2025-05-21 08:49:42,245 - INFO - 📊 Evaluation metric saved with ID: 682d8596a917e56cb63df17e
+2025-05-21 09:36:36,610 - INFO - ✅ MongoDB connection established.
+2025-05-21 09:36:58,453 - INFO - 📝 Interaction saved to DB.
+2025-05-21 09:36:58,534 - INFO - 📊 Evaluation metric saved with ID: 682d90a9cc09739c855efef7
+2025-05-21 09:37:13,022 - INFO - 📝 Interaction saved to DB.
+2025-05-21 09:37:13,125 - INFO - 📊 Evaluation metric saved with ID: 682d90b9cc09739c855efef9
+2025-05-21 09:37:20,979 - INFO - 📝 Interaction saved to DB.
+2025-05-21 09:37:20,979 - INFO - 📊 Evaluation metric saved with ID: 682d90c0cc09739c855efefb
+2025-05-21 09:37:28,719 - INFO - 📝 Interaction saved to DB.
+2025-05-21 09:37:28,719 - INFO - 📊 Evaluation metric saved with ID: 682d90c8cc09739c855efefd
+2025-05-21 09:37:36,202 - INFO - 📝 Interaction saved to DB.
+2025-05-21 09:37:36,203 - INFO - 📊 Evaluation metric saved with ID: 682d90d0cc09739c855efeff
+2025-05-21 09:37:45,530 - INFO - 📝 Interaction saved to DB.
+2025-05-21 09:37:45,630 - INFO - 📊 Evaluation metric saved with ID: 682d90d9cc09739c855eff01
+2025-05-21 10:14:26,209 - INFO - ✅ MongoDB connection established.
+2025-05-21 10:15:04,088 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:15:04,200 - INFO - 📊 Evaluation metric saved with ID: 682d99981bb389e3e7830ef5
+2025-05-21 10:15:12,390 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:15:12,906 - INFO - 📊 Evaluation metric saved with ID: 682d99a01bb389e3e7830ef7
+2025-05-21 10:15:28,774 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:15:28,871 - INFO - 📊 Evaluation metric saved with ID: 682d99b01bb389e3e7830ef9
+2025-05-21 10:15:36,755 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:15:36,755 - INFO - 📊 Evaluation metric saved with ID: 682d99b81bb389e3e7830efb
+2025-05-21 10:15:50,471 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:15:50,568 - INFO - 📊 Evaluation metric saved with ID: 682d99c61bb389e3e7830efd
+2025-05-21 10:16:10,770 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:16:10,867 - INFO - 📊 Evaluation metric saved with ID: 682d99da1bb389e3e7830eff
+2025-05-21 10:16:19,496 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:16:19,496 - INFO - 📊 Evaluation metric saved with ID: 682d99e31bb389e3e7830f01
+2025-05-21 10:16:28,257 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:16:28,257 - INFO - 📊 Evaluation metric saved with ID: 682d99eb1bb389e3e7830f03
+2025-05-21 10:16:36,116 - INFO - 📊 Evaluation metric saved with ID: 682d99f31bb389e3e7830f05
+2025-05-21 10:16:36,116 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:16:43,985 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:16:43,985 - INFO - 📊 Evaluation metric saved with ID: 682d99fb1bb389e3e7830f07
+2025-05-21 10:16:53,945 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:16:53,945 - INFO - 📊 Evaluation metric saved with ID: 682d9a051bb389e3e7830f09
+2025-05-21 10:17:08,139 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:17:08,235 - INFO - 📊 Evaluation metric saved with ID: 682d9a141bb389e3e7830f0b
+2025-05-21 10:17:16,078 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:17:16,078 - INFO - 📊 Evaluation metric saved with ID: 682d9a1b1bb389e3e7830f0d
+2025-05-21 10:17:23,862 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:17:23,863 - INFO - 📊 Evaluation metric saved with ID: 682d9a231bb389e3e7830f0f
+2025-05-21 10:17:38,454 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:17:38,551 - INFO - 📊 Evaluation metric saved with ID: 682d9a321bb389e3e7830f11
+2025-05-21 10:17:47,720 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:17:47,720 - INFO - 📊 Evaluation metric saved with ID: 682d9a3b1bb389e3e7830f13
+2025-05-21 10:18:06,918 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:18:07,017 - INFO - 📊 Evaluation metric saved with ID: 682d9a4e1bb389e3e7830f15
+2025-05-21 10:18:27,801 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:18:27,921 - INFO - 📊 Evaluation metric saved with ID: 682d9a631bb389e3e7830f17
+2025-05-21 10:18:43,652 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:18:43,748 - INFO - 📊 Evaluation metric saved with ID: 682d9a731bb389e3e7830f19
+2025-05-21 10:19:02,350 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:19:02,448 - INFO - 📊 Evaluation metric saved with ID: 682d9a861bb389e3e7830f1b
+2025-05-21 10:19:17,191 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:19:17,287 - INFO - 📊 Evaluation metric saved with ID: 682d9a951bb389e3e7830f1d
+2025-05-21 10:19:24,981 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:19:24,982 - INFO - 📊 Evaluation metric saved with ID: 682d9a9c1bb389e3e7830f1f
+2025-05-21 10:19:44,153 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:19:44,371 - INFO - 📊 Evaluation metric saved with ID: 682d9ab01bb389e3e7830f21
+2025-05-21 10:20:10,905 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:20:11,002 - INFO - 📊 Evaluation metric saved with ID: 682d9aca1bb389e3e7830f23
+2025-05-21 10:20:47,015 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:20:47,120 - INFO - 📊 Evaluation metric saved with ID: 682d9aef1bb389e3e7830f25
+2025-05-21 10:21:48,205 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:21:48,309 - INFO - 📊 Evaluation metric saved with ID: 682d9b2c1bb389e3e7830f27
+2025-05-21 10:21:57,349 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:21:57,350 - INFO - 📊 Evaluation metric saved with ID: 682d9b351bb389e3e7830f29
+2025-05-21 10:22:05,464 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:22:05,465 - INFO - 📊 Evaluation metric saved with ID: 682d9b3d1bb389e3e7830f2b
+2025-05-21 10:22:46,285 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:22:46,485 - INFO - 📊 Evaluation metric saved with ID: 682d9b661bb389e3e7830f2d
+2025-05-21 10:23:15,393 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:23:15,491 - INFO - 📊 Evaluation metric saved with ID: 682d9b831bb389e3e7830f2f
+2025-05-21 10:24:24,667 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:24:24,822 - INFO - 📊 Evaluation metric saved with ID: 682d9bc81bb389e3e7830f31
+2025-05-21 10:25:13,682 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:25:13,779 - INFO - 📊 Evaluation metric saved with ID: 682d9bf91bb389e3e7830f33
+2025-05-21 10:25:39,125 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:25:39,126 - INFO - 📊 Evaluation metric saved with ID: 682d9c131bb389e3e7830f35
+2025-05-21 10:32:04,723 - INFO - ✅ MongoDB connection established.
+2025-05-21 10:32:17,673 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:32:17,680 - INFO - 📊 Evaluation metric saved with ID: 682d9da16af13db7d66c5d71
+2025-05-21 10:32:24,910 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:32:24,912 - INFO - 📊 Evaluation metric saved with ID: 682d9da86af13db7d66c5d73
+2025-05-21 10:32:32,567 - INFO - 📊 Evaluation metric saved with ID: 682d9db06af13db7d66c5d75
+2025-05-21 10:32:32,567 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:33:55,871 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:33:55,974 - INFO - 📊 Evaluation metric saved with ID: 682d9e036af13db7d66c5d77
+2025-05-21 10:34:11,492 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:34:11,594 - INFO - 📊 Evaluation metric saved with ID: 682d9e136af13db7d66c5d79
+2025-05-21 10:34:29,813 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:34:29,913 - INFO - 📊 Evaluation metric saved with ID: 682d9e256af13db7d66c5d7b
+2025-05-21 10:34:41,456 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:34:41,580 - INFO - 📊 Evaluation metric saved with ID: 682d9e316af13db7d66c5d7d
+2025-05-21 10:35:17,261 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:35:17,264 - INFO - 📊 Evaluation metric saved with ID: 682d9e556af13db7d66c5d7f
+2025-05-21 10:39:59,253 - INFO - ✅ MongoDB connection established.
+2025-05-21 10:40:35,743 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:40:35,849 - INFO - 📊 Evaluation metric saved with ID: 682d9f93d33adb70c22dccc9
+2025-05-21 10:40:44,906 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:40:45,538 - INFO - 📊 Evaluation metric saved with ID: 682d9f9cd33adb70c22dcccb
+2025-05-21 10:40:53,525 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:40:53,526 - INFO - 📊 Evaluation metric saved with ID: 682d9fa5d33adb70c22dcccd
+2025-05-21 10:41:02,202 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:41:02,206 - INFO - 📊 Evaluation metric saved with ID: 682d9faed33adb70c22dcccf
+2025-05-21 10:48:08,947 - INFO - ✅ MongoDB connection established.
+2025-05-21 10:48:20,494 - INFO - 📊 Evaluation metric saved with ID: 682da163d6148718324cfd6b
+2025-05-21 10:48:20,500 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:48:37,314 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:48:37,414 - INFO - 📊 Evaluation metric saved with ID: 682da175d6148718324cfd6d
+2025-05-21 10:49:41,522 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:49:41,628 - INFO - 📊 Evaluation metric saved with ID: 682da1b5d6148718324cfd6f
+2025-05-21 10:51:01,035 - INFO - ✅ MongoDB connection established.
+2025-05-21 10:51:21,967 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:51:22,069 - INFO - 📊 Evaluation metric saved with ID: 682da21961183af05bc9914a
+2025-05-21 10:51:36,371 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:51:36,469 - INFO - 📊 Evaluation metric saved with ID: 682da22861183af05bc9914c
+2025-05-21 10:51:49,948 - INFO - 📝 Interaction saved to DB.
+2025-05-21 10:51:50,046 - INFO - 📊 Evaluation metric saved with ID: 682da23561183af05bc9914e
+2025-05-21 16:51:00,097 - INFO - ✅ MongoDB connection established.
+2025-05-21 16:51:15,076 - INFO - 📊 Evaluation metric saved with ID: 682df6725e1f0cd988e93855
+2025-05-21 16:51:15,082 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:51:27,885 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:51:28,074 - INFO - 📊 Evaluation metric saved with ID: 682df67f5e1f0cd988e93857
+2025-05-21 16:51:36,029 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:51:36,030 - INFO - 📊 Evaluation metric saved with ID: 682df6875e1f0cd988e93859
+2025-05-21 16:51:49,923 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:51:50,023 - INFO - 📊 Evaluation metric saved with ID: 682df6955e1f0cd988e9385b
+2025-05-21 16:55:25,753 - INFO - ✅ MongoDB connection established.
+2025-05-21 16:55:37,461 - INFO - 📊 Evaluation metric saved with ID: 682df778e47245e73217fa1e
+2025-05-21 16:55:37,471 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:55:55,631 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:55:55,727 - INFO - 📊 Evaluation metric saved with ID: 682df78be47245e73217fa20
+2025-05-21 16:56:22,608 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:56:22,747 - INFO - 📊 Evaluation metric saved with ID: 682df7a6e47245e73217fa22
+2025-05-21 16:57:11,160 - INFO - 📝 Interaction saved to DB.
+2025-05-21 16:57:11,268 - INFO - 📊 Evaluation metric saved with ID: 682df7d7e47245e73217fa24
+2025-05-21 17:00:27,393 - INFO - ✅ MongoDB connection established.
+2025-05-21 17:00:53,699 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:00:53,804 - INFO - 📊 Evaluation metric saved with ID: 682df8b5168ddf5ef4a99d7e
+2025-05-21 17:01:13,114 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:01:13,216 - INFO - 📊 Evaluation metric saved with ID: 682df8c9168ddf5ef4a99d80
+2025-05-21 17:04:09,916 - INFO - ✅ MongoDB connection established.
+2025-05-21 17:04:24,211 - INFO - 📊 Evaluation metric saved with ID: 682df987489a3db0c6b6f5ea
+2025-05-21 17:04:24,221 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:57:21,180 - INFO - ✅ MongoDB connection established.
+2025-05-21 17:57:34,227 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:57:34,234 - INFO - 📊 Evaluation metric saved with ID: 682e05fdab511d69d3fcb3c4
+2025-05-21 17:57:52,217 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:57:52,313 - INFO - 📊 Evaluation metric saved with ID: 682e0610ab511d69d3fcb3c6
+2025-05-21 17:58:06,530 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:58:06,629 - INFO - 📊 Evaluation metric saved with ID: 682e061eab511d69d3fcb3c8
+2025-05-21 17:58:14,511 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:58:14,519 - INFO - 📊 Evaluation metric saved with ID: 682e0626ab511d69d3fcb3ca
+2025-05-21 17:59:08,801 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:59:08,899 - INFO - 📊 Evaluation metric saved with ID: 682e065cab511d69d3fcb3cc
+2025-05-21 17:59:21,029 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:59:21,033 - INFO - 📊 Evaluation metric saved with ID: 682e0668ab511d69d3fcb3ce
+2025-05-21 17:59:35,777 - INFO - 📝 Interaction saved to DB.
+2025-05-21 17:59:35,877 - INFO - 📊 Evaluation metric saved with ID: 682e0677ab511d69d3fcb3d0
+2025-05-21 18:00:08,968 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:00:09,065 - INFO - 📊 Evaluation metric saved with ID: 682e0698ab511d69d3fcb3d2
+2025-05-21 18:00:17,522 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:00:17,527 - INFO - 📊 Evaluation metric saved with ID: 682e06a1ab511d69d3fcb3d4
+2025-05-21 18:00:37,365 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:00:37,463 - INFO - 📊 Evaluation metric saved with ID: 682e06b5ab511d69d3fcb3d6
+2025-05-21 18:00:45,424 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:00:45,429 - INFO - 📊 Evaluation metric saved with ID: 682e06bdab511d69d3fcb3d8
+2025-05-21 18:01:03,889 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:01:03,987 - INFO - 📊 Evaluation metric saved with ID: 682e06cfab511d69d3fcb3da
+2025-05-21 18:04:16,711 - INFO - ✅ MongoDB connection established.
+2025-05-21 18:04:30,001 - INFO - 📊 Evaluation metric saved with ID: 682e079d49c57aea3b445a13
+2025-05-21 18:04:30,012 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:04:56,643 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:04:56,743 - INFO - 📊 Evaluation metric saved with ID: 682e07b849c57aea3b445a15
+2025-05-21 18:05:07,835 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:05:07,935 - INFO - 📊 Evaluation metric saved with ID: 682e07c349c57aea3b445a17
+2025-05-21 18:05:17,359 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:05:17,361 - INFO - 📊 Evaluation metric saved with ID: 682e07cd49c57aea3b445a19
+2025-05-21 18:07:05,482 - INFO - ✅ MongoDB connection established.
+2025-05-21 18:07:16,435 - INFO - 📊 Evaluation metric saved with ID: 682e08434a3c1df470b65cd6
+2025-05-21 18:07:16,444 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:07:25,196 - INFO - 📝 Interaction saved to DB.
+2025-05-21 18:07:25,292 - INFO - 📊 Evaluation metric saved with ID: 682e084d4a3c1df470b65cd8
+2025-05-21 20:21:27,013 - INFO - ✅ MongoDB connection established.
+2025-05-21 20:22:12,766 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682e27b60237de4f1ee49027, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 20:22:12,767 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682e27b60237de4f1ee49027, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 20:22:22,329 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682e27b60237de4f1ee49027, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 20:22:22,330 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682e27b60237de4f1ee49027, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-21 20:23:02,371 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682e27b60237de4f1ee49027, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:20:46,429 - INFO - ✅ MongoDB connection established.
+2025-05-22 07:21:42,691 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec23e6decfaa60e2433b8, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:22:12,755 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec23e6decfaa60e2433b8, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:24:08,265 - INFO - ✅ MongoDB connection established.
+2025-05-22 07:24:48,310 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec308a936de24cf8d2201, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:24:48,311 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec308a936de24cf8d2201, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:24:56,359 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec308a936de24cf8d2201, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:24:56,359 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec308a936de24cf8d2201, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:36:49,615 - INFO - ✅ MongoDB connection established.
+2025-05-22 07:37:33,620 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec6015193f84b0cb2a563, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:38:03,700 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec6015193f84b0cb2a563, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:45:30,437 - INFO - ✅ MongoDB connection established.
+2025-05-22 07:46:31,859 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec80a981a5d66ced0a905, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:47:02,336 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec80a981a5d66ced0a905, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:47:41,415 - ERROR - ❌ Failed to save interaction: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec80a981a5d66ced0a905, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:47:41,416 - ERROR - ❌ Failed to log evaluation metric: SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 682ec80a981a5d66ced0a905, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-00.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-01.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-jfdxlmp-shard-00-02.odmsslj.mongodb.net:27017: [Errno 54] Connection reset by peer (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-22 07:48:26,447 - INFO - ✅ MongoDB connection established.
+2025-05-22 07:48:38,295 - INFO - 📊 Evaluation metric saved with ID: 682ec8c57d4054233f52cc47
+2025-05-22 07:48:38,389 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:49:14,401 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:49:14,503 - INFO - 📊 Evaluation metric saved with ID: 682ec8ea7d4054233f52cc49
+2025-05-22 07:49:28,612 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:49:28,713 - INFO - 📊 Evaluation metric saved with ID: 682ec8f87d4054233f52cc4b
+2025-05-22 07:49:59,070 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:49:59,178 - INFO - 📊 Evaluation metric saved with ID: 682ec9177d4054233f52cc4d
+2025-05-22 07:51:22,680 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:51:22,781 - INFO - 📊 Evaluation metric saved with ID: 682ec96a7d4054233f52cc4f
+2025-05-22 07:52:03,346 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:52:03,447 - INFO - 📊 Evaluation metric saved with ID: 682ec9937d4054233f52cc51
+2025-05-22 07:52:17,827 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:52:18,089 - INFO - 📊 Evaluation metric saved with ID: 682ec9a17d4054233f52cc53
+2025-05-22 07:52:44,882 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:52:44,982 - INFO - 📊 Evaluation metric saved with ID: 682ec9bc7d4054233f52cc55
+2025-05-22 07:53:12,075 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:53:12,175 - INFO - 📊 Evaluation metric saved with ID: 682ec9d87d4054233f52cc57
+2025-05-22 07:53:29,617 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:53:30,016 - INFO - 📊 Evaluation metric saved with ID: 682ec9e97d4054233f52cc59
+2025-05-22 07:54:03,411 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:54:03,517 - INFO - 📊 Evaluation metric saved with ID: 682eca0b7d4054233f52cc5b
+2025-05-22 07:57:35,875 - INFO - ✅ MongoDB connection established.
+2025-05-22 07:57:53,190 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:57:53,297 - INFO - 📊 Evaluation metric saved with ID: 682ecaf10521c6d0b6c4ee1c
+2025-05-22 07:58:24,395 - INFO - 📝 Interaction saved to DB.
+2025-05-22 07:58:24,491 - INFO - 📊 Evaluation metric saved with ID: 682ecb100521c6d0b6c4ee1e
+2025-05-22 08:05:06,230 - INFO - ✅ MongoDB connection established.
+2025-05-22 08:05:24,825 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:05:24,930 - INFO - 📊 Evaluation metric saved with ID: 682eccb4660f0c7c58e93bed
+2025-05-22 08:05:42,115 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:05:42,212 - INFO - 📊 Evaluation metric saved with ID: 682eccc6660f0c7c58e93bef
+2025-05-22 08:05:53,808 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:05:53,905 - INFO - 📊 Evaluation metric saved with ID: 682eccd1660f0c7c58e93bf1
+2025-05-22 08:06:02,221 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:06:02,853 - INFO - 📊 Evaluation metric saved with ID: 682eccda660f0c7c58e93bf3
+2025-05-22 08:06:16,150 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:06:16,246 - INFO - 📊 Evaluation metric saved with ID: 682ecce8660f0c7c58e93bf5
+2025-05-22 08:06:34,379 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:06:34,478 - INFO - 📊 Evaluation metric saved with ID: 682eccfa660f0c7c58e93bf7
+2025-05-22 08:07:03,384 - INFO - ✅ MongoDB connection established.
+2025-05-22 08:07:15,119 - INFO - 📊 Evaluation metric saved with ID: 682ecd22e88c16483bf9b93c
+2025-05-22 08:07:15,226 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:07:33,087 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:07:33,183 - INFO - 📊 Evaluation metric saved with ID: 682ecd35e88c16483bf9b93e
+2025-05-22 08:07:50,019 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:07:50,115 - INFO - 📊 Evaluation metric saved with ID: 682ecd46e88c16483bf9b940
+2025-05-22 08:08:00,955 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:08:01,051 - INFO - 📊 Evaluation metric saved with ID: 682ecd50e88c16483bf9b942
+2025-05-22 08:08:51,585 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:08:51,707 - INFO - 📊 Evaluation metric saved with ID: 682ecd83e88c16483bf9b944
+2025-05-22 08:09:14,190 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:09:14,287 - INFO - 📊 Evaluation metric saved with ID: 682ecd9ae88c16483bf9b946
+2025-05-22 08:09:25,835 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:09:25,932 - INFO - 📊 Evaluation metric saved with ID: 682ecda5e88c16483bf9b948
+2025-05-22 08:09:37,605 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:09:37,617 - INFO - 📊 Evaluation metric saved with ID: 682ecdb1e88c16483bf9b94a
+2025-05-22 08:09:58,415 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:09:58,514 - INFO - 📊 Evaluation metric saved with ID: 682ecdc6e88c16483bf9b94c
+2025-05-22 08:10:12,902 - INFO - 📊 Evaluation metric saved with ID: 682ecdd4e88c16483bf9b94e
+2025-05-22 08:10:12,902 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:10:32,013 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:10:32,018 - INFO - 📊 Evaluation metric saved with ID: 682ecde7e88c16483bf9b950
+2025-05-22 08:10:55,908 - INFO - 📊 Evaluation metric saved with ID: 682ecdffe88c16483bf9b952
+2025-05-22 08:10:55,911 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:11:09,775 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:11:09,875 - INFO - 📊 Evaluation metric saved with ID: 682ece0de88c16483bf9b954
+2025-05-22 08:12:47,530 - INFO - ✅ MongoDB connection established.
+2025-05-22 08:13:01,182 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:13:01,195 - INFO - 📊 Evaluation metric saved with ID: 682ece7cb38d86ebc4e9aa85
+2025-05-22 08:14:01,518 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:14:01,621 - INFO - 📊 Evaluation metric saved with ID: 682eceb9b38d86ebc4e9aa87
+2025-05-22 08:14:13,514 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:14:13,516 - INFO - 📊 Evaluation metric saved with ID: 682ecec5b38d86ebc4e9aa89
+2025-05-22 08:14:31,782 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:14:31,887 - INFO - 📊 Evaluation metric saved with ID: 682eced7b38d86ebc4e9aa8b
+2025-05-22 08:15:23,962 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:15:24,061 - INFO - 📊 Evaluation metric saved with ID: 682ecf0bb38d86ebc4e9aa8d
+2025-05-22 08:17:04,965 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:17:04,973 - INFO - 📊 Evaluation metric saved with ID: 682ecf70b38d86ebc4e9aa8f
+2025-05-22 08:17:24,534 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:17:24,669 - INFO - 📊 Evaluation metric saved with ID: 682ecf84b38d86ebc4e9aa91
+2025-05-22 08:17:43,311 - INFO - 📝 Interaction saved to DB.
+2025-05-22 08:17:43,412 - INFO - 📊 Evaluation metric saved with ID: 682ecf97b38d86ebc4e9aa93
+2025-05-22 08:19:43,629 - INFO - ✅ MongoDB connection established.

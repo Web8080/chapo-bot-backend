@@ -1,0 +1,58 @@
+timestamp,user_input,true_intent,predicted_intent
+2025-05-12T20:07:47.195937,How are you?,how_are_you,casual_checkin
+2025-05-12T20:14:06.639472,How are you?,how_are_you,casual_checkin
+2025-05-12T20:15:24.692791,Tell me a joke.,tell_joke,tell_joke
+2025-05-12T20:37:01.314371,Turn on the security camera.,camera_stream,remote_monitoring
+2025-05-12T20:37:30.509308,Show me the front door camera.,camera_stream,object_location
+2025-05-12T20:37:40.958867,What's up?,casual_checkin,casual_checkin
+2025-05-12T20:37:53.668638,How is it going?,casual_checkin,how_are_you
+2025-05-12T20:38:02.542637,What's up?,casual_checkin,casual_checkin
+2025-05-12T20:38:14.363309,Hello there,casual_checkin,casual_checkin
+2025-05-12T20:38:37.937027,I'm not in the mood to chat.,chat_emotion,chat_emotion
+2025-05-12T20:38:49.444030,I'm not in the mood to chat.,chat_emotion,chat_emotion
+2025-05-12T20:39:03.781509,Let's have a deep conversation.,chat_emotion,chat_emotion
+2025-05-12T20:39:54.233601,I need urgent help.,emergency_alert,emergency_alert
+2025-05-12T20:40:06.766010,There's a fire.,emergency_alert,emergency_alert
+2025-05-12T20:40:25.363379,What's the weather looking today?,get_weather,wit$get_weather
+2025-05-12T20:40:46.542879,Do I need a jacket?,get_weather,wit$get_weather
+2025-05-12T20:41:39.704470,mute the TV,media_control,media_control
+2025-05-12T20:51:57.466787,Put on something relaxing.,play_music,play_music
+2025-05-12T20:52:07.048712,is the front door open,sensor_status,set_reminder
+2025-05-12T20:52:17.291638,is the front door open.,sensor_status,set_reminder
+2025-05-12T20:52:26.999498,Set the reminder to fit the dog.,set_reminder,set_reminder
+2025-05-12T20:52:45.064765,Please remind me to stretch out now.,set_reminder,start_workout
+2025-05-12T20:53:14.130739,Can you set a reminder to feed the dog?,set_reminder,set_reminder
+2025-05-12T20:53:39.106627,Wake me up at 6.30 tomorrow.,set_reminder,set_reminder
+2025-05-12T20:53:51.736816,Wake me up at 2.30pm tomorrow.,set_reminder,set_reminder
+2025-05-12T20:54:01.298566,Don't forget to send the report at 3pm.,set_reminder,set_reminder
+2025-05-12T20:54:16.687432,Turn on the coffee maker.,smart_kitchen,device_connection
+2025-05-12T20:55:12.363238,Can you tell me the current time?,time_now,time_now
+2025-05-13T09:54:08.826737,I want to see the garage calm.,camera_stream,open_garage
+2025-05-13T09:55:52.928018,There's a fire.,emergency_alert,emergency_alert
+2025-05-13T09:56:31.327557,How are you doing?,how_are_you,casual_checkin
+2025-05-13T09:56:57.739846,Start playing pop.,play_music,casual_checkin
+2025-05-13T09:57:12.535117,Please some jazz music.,play_music,play_music
+2025-05-13T09:57:27.822942,is the front door open,sensor_status,object_location
+2025-05-13T09:57:43.327695,Wake me up at 6.30 tomorrow.,set_reminder,set_reminder
+2025-05-13T09:57:53.773516,Wake me up at 6.30 tomorrow,set_reminder,set_alarm
+2025-05-13T09:58:17.887851,say something funny,tell_joke,tell_joke
+2025-05-13T09:58:29.407749,What time is it now?,time_now,time_now
+2025-05-13T09:58:40.834062,switch off the bathroom light,turn_off_lights,control_lights
+2025-05-13T09:59:04.678497,What's the weather in Paris?,get_weather,wit$get_weather
+2025-05-13T10:12:09.352581,What's up?,casual_checkin,casual_checkin
+2025-05-13T10:12:19.118295,How are you doing?,how_are_you,casual_checkin
+2025-05-13T10:12:43.501123,What time is it now?,time_now,time_now
+2025-05-13T10:12:55.797346,What's the weather in London?,get_weather,wit$get_weather
+2025-05-13T10:13:06.420831,Play some jazz music.,play_music,play_music
+2025-05-13T10:13:23.264693,Wake me up at 6.30 tomorrow.,set_reminder,set_reminder
+2025-05-13T10:13:35.819359,Wake me up at 630 tomorrow.,set_reminder,set_reminder
+2025-05-13T10:13:48.254950,Tell me a joke.,tell_joke,tell_joke
+2025-05-13T10:13:59.110910,Switch off the bottom light.,turn_off_lights,turn_off_lights
+2025-05-13T10:14:09.302895,Show me the front door camera.,camera_stream,camera_stream
+2025-05-13T10:14:19.467138,There's a fire,emergency_alert,emergency_alert
+2025-05-13T10:14:29.591887,Call 911 now.,emergency_alert,emergency_alert
+2025-05-14T08:56:19.707572,How are you?,how_are_you,casual_checkin
+2025-05-14T08:57:09.228975,How are you?,how_are_you,casual_checkin
+2025-05-14T10:24:20.940144,How are you?,how_are_you,casual_checkin
+2025-05-14T10:27:33.508136,How are you?,how_are_you,casual_checkin
+2025-05-14T11:16:51.273357,What's the weather in London?,get_weather,wit$get_weather

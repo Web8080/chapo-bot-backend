@@ -1,0 +1,201 @@
+utterance,intent,entities
+What time is it?,time_now,{}
+Tell me a joke,tell_joke,{}
+Play some pop music,play_music,"{""genre"": ""pop""}"
+What's the weather like?,get_weather,{}
+Remind me to call {contact} at 3 PM,set_reminder,"{""task"": ""call Laura"", ""time"": ""3 PM""}"
+What time is it?,time_now,{}
+What time is it?,time_now,{}
+Tell me a joke,tell_joke,{}
+What time is it?,time_now,{}
+Wake me up at 12 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""12 AM""}"
+Play some rock music,play_music,"{""genre"": ""rock""}"
+Turn on the bathroom lights,turn_on_lights,"{""location"": ""bathroom""}"
+Play some pop music,play_music,"{""genre"": ""pop""}"
+Hello,greeting,{}
+What time is it?,time_now,{}
+How are you?,casual_checkin,{}
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+Tell me a joke,tell_joke,{}
+Wake me up at 1 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""1 AM""}"
+Turn on the garage lights,turn_on_lights,"{""location"": ""garage""}"
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+How are you?,casual_checkin,{}
+Tell me a joke,tell_joke,{}
+Play some lofi music,play_music,"{""genre"": ""lofi""}"
+How are you?,casual_checkin,{}
+Play some pop music,play_music,"{""genre"": ""pop""}"
+What's the weather like?,get_weather,{}
+Turn off the lights in the kitchen,turn_off_lights,"{""location"": ""kitchen""}"
+Turn off the lights in the bedroom,turn_off_lights,"{""location"": ""bedroom""}"
+Remind me to call {contact} at 8 PM,set_reminder,"{""task"": ""call Alejandro"", ""time"": ""8 PM""}"
+Hello,greeting,{}
+Remind me to call {contact} at 3 PM,set_reminder,"{""task"": ""call Travis"", ""time"": ""3 PM""}"
+What's the weather like?,get_weather,{}
+Remind me to call {contact} at 3 PM,set_reminder,"{""task"": ""call Stephen"", ""time"": ""3 PM""}"
+Remind me to call {contact} at 9 PM,set_reminder,"{""task"": ""call Jeffrey"", ""time"": ""9 PM""}"
+Wake me up at 12 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""12 AM""}"
+Turn off the lights in the bedroom,turn_off_lights,"{""location"": ""bedroom""}"
+Hello,greeting,{}
+Tell me a joke,tell_joke,{}
+Play some jazz music,play_music,"{""genre"": ""jazz""}"
+Tell me a joke,tell_joke,{}
+What's the weather like?,get_weather,{}
+How are you?,casual_checkin,{}
+Play some jazz music,play_music,"{""genre"": ""jazz""}"
+How are you?,casual_checkin,{}
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+Tell me a joke,tell_joke,{}
+What time is it?,time_now,{}
+Wake me up at 8 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""8 AM""}"
+What time is it?,time_now,{}
+What time is it?,time_now,{}
+How are you?,casual_checkin,{}
+How are you?,casual_checkin,{}
+Wake me up at 12 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""12 AM""}"
+How are you?,casual_checkin,{}
+Tell me a joke,tell_joke,{}
+How are you?,casual_checkin,{}
+Remind me to call {contact} at 1 PM,set_reminder,"{""task"": ""call Robert"", ""time"": ""1 PM""}"
+How are you?,casual_checkin,{}
+How are you?,casual_checkin,{}
+Play some pop music,play_music,"{""genre"": ""pop""}"
+Turn off the lights in the kitchen,turn_off_lights,"{""location"": ""kitchen""}"
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+What time is it?,time_now,{}
+What's the weather like?,get_weather,{}
+Turn on the bathroom lights,turn_on_lights,"{""location"": ""bathroom""}"
+Remind me to Midwife at 11 PM,set_reminder,"{""task"": ""Midwife"", ""time"": ""11 PM""}"
+Tell me a joke,tell_joke,{}
+Turn on the garage lights,turn_on_lights,"{""location"": ""garage""}"
+Tell me a joke,tell_joke,{}
+Wake me up at 10 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""10 AM""}"
+How are you?,casual_checkin,{}
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+Hello,greeting,{}
+"Remind me to Surveyor, hydrographic at 6 AM",set_reminder,"{""task"": ""Surveyor, hydrographic"", ""time"": ""6 AM""}"
+Play some rock music,play_music,"{""genre"": ""rock""}"
+What time is it?,time_now,{}
+Hello,greeting,{}
+Remind me to Publishing rights manager at 10 AM,set_reminder,"{""task"": ""Publishing rights manager"", ""time"": ""10 AM""}"
+Hello,greeting,{}
+What time is it?,time_now,{}
+How are you?,casual_checkin,{}
+Hello,greeting,{}
+Tell me a joke,tell_joke,{}
+What time is it?,time_now,{}
+What's the weather like?,get_weather,{}
+Tell me a joke,tell_joke,{}
+Wake me up at 11 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""11 AM""}"
+Tell me a joke,tell_joke,{}
+Play some lofi music,play_music,"{""genre"": ""lofi""}"
+How are you?,casual_checkin,{}
+Remind me to call {contact} at 5 PM,set_reminder,"{""task"": ""call Brandon"", ""time"": ""5 PM""}"
+Turn off the lights in the bedroom,turn_off_lights,"{""location"": ""bedroom""}"
+Remind me to call {contact} at 9 PM,set_reminder,"{""task"": ""call Mary"", ""time"": ""9 PM""}"
+What time is it?,time_now,{}
+Hello,greeting,{}
+Remind me to call {contact} at 7 PM,set_reminder,"{""task"": ""call Natalie"", ""time"": ""7 PM""}"
+Turn off the lights in the kitchen,turn_off_lights,"{""location"": ""kitchen""}"
+Remind me to call {contact} at 9 PM,set_reminder,"{""task"": ""call Michael"", ""time"": ""9 PM""}"
+Remind me to call {contact} at 11 PM,set_reminder,"{""task"": ""call Christopher"", ""time"": ""11 PM""}"
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+Play some pop music,play_music,"{""genre"": ""pop""}"
+Play some jazz music,play_music,"{""genre"": ""jazz""}"
+Turn on the dining room lights,turn_on_lights,"{""location"": ""dining room""}"
+What time is it?,time_now,{}
+How are you?,casual_checkin,{}
+Hello,greeting,{}
+Wake me up at 8 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""8 AM""}"
+Play some rock music,play_music,"{""genre"": ""rock""}"
+Remind me to Systems developer at 10 PM,set_reminder,"{""task"": ""Systems developer"", ""time"": ""10 PM""}"
+Tell me a joke,tell_joke,{}
+Turn off the lights in the hallway,turn_off_lights,"{""location"": ""hallway""}"
+What time is it?,time_now,{}
+Turn on the garage lights,turn_on_lights,"{""location"": ""garage""}"
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+Hello,greeting,{}
+Tell me a joke,tell_joke,{}
+Tell me a joke,tell_joke,{}
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+Hello,greeting,{}
+Turn off the lights in the kitchen,turn_off_lights,"{""location"": ""kitchen""}"
+Remind me to Clinical molecular geneticist at 1 PM,set_reminder,"{""task"": ""Clinical molecular geneticist"", ""time"": ""1 PM""}"
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+Tell me a joke,tell_joke,{}
+Tell me a joke,tell_joke,{}
+Remind me to call {contact} at 1 PM,set_reminder,"{""task"": ""call Belinda"", ""time"": ""1 PM""}"
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+Turn on the garage lights,turn_on_lights,"{""location"": ""garage""}"
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+How are you?,casual_checkin,{}
+Wake me up at 2 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""2 AM""}"
+Remind me to call {contact} at 1 PM,set_reminder,"{""task"": ""call Brian"", ""time"": ""1 PM""}"
+Play some pop music,play_music,"{""genre"": ""pop""}"
+Play some jazz music,play_music,"{""genre"": ""jazz""}"
+What's the weather like?,get_weather,{}
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+Tell me a joke,tell_joke,{}
+Turn on the garage lights,turn_on_lights,"{""location"": ""garage""}"
+What's the weather like?,get_weather,{}
+Turn on the garage lights,turn_on_lights,"{""location"": ""garage""}"
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+Turn on the bathroom lights,turn_on_lights,"{""location"": ""bathroom""}"
+Tell me a joke,tell_joke,{}
+What time is it?,time_now,{}
+Remind me to call {contact} at 12 PM,set_reminder,"{""task"": ""call Zachary"", ""time"": ""12 PM""}"
+What time is it?,time_now,{}
+What time is it?,time_now,{}
+Play some pop music,play_music,"{""genre"": ""pop""}"
+What's the weather like?,get_weather,{}
+Remind me to call {contact} at 8 PM,set_reminder,"{""task"": ""call Bryan"", ""time"": ""8 PM""}"
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+Remind me to call {contact} at 12 PM,set_reminder,"{""task"": ""call Caroline"", ""time"": ""12 PM""}"
+What time is it?,time_now,{}
+What's the weather like?,get_weather,{}
+What time is it?,time_now,{}
+Play some rock music,play_music,"{""genre"": ""rock""}"
+Turn off the lights in the hallway,turn_off_lights,"{""location"": ""hallway""}"
+What's the weather like?,get_weather,{}
+How are you?,casual_checkin,{}
+What's the weather like?,get_weather,{}
+Wake me up at 6 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""6 AM""}"
+What time is it?,time_now,{}
+Remind me to Marine scientist at 8 AM,set_reminder,"{""task"": ""Marine scientist"", ""time"": ""8 AM""}"
+Wake me up at 2 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""2 AM""}"
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+Turn off the lights in the living room,turn_off_lights,"{""location"": ""living room""}"
+Wake me up at 7 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""7 AM""}"
+Play some classical music,play_music,"{""genre"": ""classical""}"
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+Wake me up at 10 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""10 AM""}"
+What's the weather like?,get_weather,{}
+Remind me to Television production assistant at 4 PM,set_reminder,"{""task"": ""Television production assistant"", ""time"": ""4 PM""}"
+Tell me a joke,tell_joke,{}
+Tell me a joke,tell_joke,{}
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+Wake me up at 8 AM,set_reminder,"{""task"": ""wake up"", ""time"": ""8 AM""}"
+What's the weather like?,get_weather,{}
+What's the weather like?,get_weather,{}
+Remind me to Stage manager at 12 AM,set_reminder,"{""task"": ""Stage manager"", ""time"": ""12 AM""}"
+Play some pop music,play_music,"{""genre"": ""pop""}"
+What time is it?,time_now,{}
+Hello,greeting,{}
+How are you?,casual_checkin,{}
+Turn on the office lights,turn_on_lights,"{""location"": ""office""}"
+Turn on the garage lights,turn_on_lights,"{""location"": ""garage""}"
+Play some pop music,play_music,"{""genre"": ""pop""}"
+What time is it?,time_now,{}
+What's the weather like?,get_weather,{}
+Play some rock music,play_music,"{""genre"": ""rock""}"
