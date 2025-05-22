@@ -559,3 +559,4 @@
 2025-05-22 08:17:43,311 - INFO - 📝 Interaction saved to DB.
 2025-05-22 08:17:43,412 - INFO - 📊 Evaluation metric saved with ID: 682ecf97b38d86ebc4e9aa93
 2025-05-22 08:19:43,629 - INFO - ✅ MongoDB connection established.
+2025-05-22 17:01:58,351 - INFO - ✅ MongoDB connection established.
